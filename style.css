@@ -1,0 +1,173 @@
+body {
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.pt-7 {
+    padding-top: 56px;
+}
+
+.pt-8 {
+    padding-top: 64px;
+}
+
+.pb-8 {
+    padding-bottom: 64px;
+}
+
+.pb-20 {
+    padding-bottom: 160px;
+}
+
+.pb-3 {
+    padding-bottom: 24px;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.mb-0-5 {
+    margin-bottom: 4px;
+}
+
+.mb-1 {
+    margin-bottom: 8px;
+}
+
+.mb-1-5 {
+    margin-bottom: 12px;
+}
+
+.mb-2 {
+    margin-bottom: 16px;
+}
+
+.mb-2-5 {
+    margin-bottom: 20px;
+}
+
+.mb-3 {
+    margin-bottom: 24px;
+}
+
+.mb-3-5 {
+    margin-bottom: 28px;
+}
+
+.mb-4 {
+    margin-bottom: 32px;
+}
+
+.mb-5 {
+    margin-bottom: 40px;
+}
+
+.mb-6 {
+    margin-bottom: 48px;
+}
+
+.mb-7 {
+    margin-bottom: 56px;
+}
+
+.mb-8-5 {
+    margin-bottom: 68px;
+}
+
+.mb-16 {
+    margin-bottom: 144px;
+}
+
+.me-2 {
+    margin-right: 16px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.font-sm {
+    font-size: 20px;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.border-bottom-1 {
+    border-bottom: 1px solid #000;
+}
+
+.bg-dark {
+    background-color: #000000;
+    color: #fff;
+}
+
+.bg-dark a {
+    color: #fff;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./img/banner.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 958px;
+    color: #fff;
+}
+
+.name {
+    font-size: 80px;
+    line-height: 106px;
+}
+
+.title {
+    font-size: 64px;
+    line-height: 84px;
+}
+
+.about {
+    width: 412px;
+}
+
+.avatar {
+    width: 384px;
+    height: 384px;
+}
+
+.skills li:before {
+    content: '';
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    background-color: #891818;
+    border-radius: 50%;
+    margin-right: 16px;
+}
